@@ -42,7 +42,7 @@ class App extends Component {
   render() {
         const { curr, showResult, win } = this.state;
         console.log()
-      var colorArray = ['white', 'red', 'blue', 'orange', 'yellow'];
+      var colorArray = ['white', 'cyan', 'coral', 'red', 'purple'];
     return (
       <div className="App">
           <p>Press the circles to change color!</p>
